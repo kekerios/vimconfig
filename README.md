@@ -11,7 +11,7 @@ HOW TO INSTALL:
 
 - Then, you're going to copy the ".vimrc" file in this repository to your home folder.
 
-- You will see many lines that set various parameters for Vim to run on, they are commented explainind what they do.
+- You will see many lines that set various parameters for Vim to run on, they are commented explaining what they do.
 
 - I encourage you to look on the internet for info on how to configure it to your liking even further, using this as a base! 
 
