@@ -17,7 +17,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 - I encourage you to look on the internet for info on how to configure it to your liking even further, using this as a base! 
 
-- Once you have your configuration ready, you're gonna have to run the following commands to apply it:
+- Once you have your configuration ready, you're gonna have to open the .vimrc file and run the following commands to apply it(note that at first it's gonna give an error regarding the plugins, as you actually haven't installed them yet):
 	- "PlugInstall" To install the plugins you just listed on the .vimrc file.
 
 	- "source %" To make Vim take in all the code and use it, "%" in Vim means the entire document.
